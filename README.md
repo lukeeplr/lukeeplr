@@ -31,5 +31,3 @@
 ![](https://img.shields.io/badge/dart-black?logo=dart&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/flutter-black?logo=flutter&logoColor=white&style=for-the-badge)
 
-<br/>
-<br/>
