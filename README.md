@@ -5,6 +5,7 @@
 <a href = "mailto:lukeeplr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 <a href="https://www.linkedin.com/in/lucas-chaves-881b6726b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://lucas-chaves.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" target="_blank"></a>
+<br/>
 
 ---
 
@@ -19,7 +20,7 @@
 ![](https://img.shields.io/badge/styled%20components-black?logo=styledcomponents&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/python-black?logo=python&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/figma-black?logo=figma&logoColor=white&style=for-the-badge)
-
+<br/>
 
 ---
 
@@ -29,3 +30,6 @@
 ![](https://img.shields.io/badge/next-black?logo=next.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/dart-black?logo=dart&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/flutter-black?logo=flutter&logoColor=white&style=for-the-badge)
+
+<br/>
+<br/>
