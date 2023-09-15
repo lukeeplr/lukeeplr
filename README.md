@@ -1,8 +1,8 @@
 ## Hello, you
 
 ### I'm Lucas, 22yo Front-End Developer from Alagoas, Brazil. 
-Currently, graduating in Computer Science at UFAL.
-In love with music, e-sports, design and developing beautiful interfaces.  
+### Currently, graduating in Computer Science at UFAL.
+### In love with music, e-sports, design and developing beautiful interfaces.  
 <a href = "mailto:lukeeplr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 <a href="https://www.linkedin.com/in/lucas-chaves-881b6726b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://lucas-chaves.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" target="_blank"></a>
