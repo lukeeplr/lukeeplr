@@ -1,4 +1,4 @@
-## Hello, you
+# Hello, you
 
 ### I'm Lucas, 22yo Front-End Developer from Alagoas, Brazil. 
 ### Currently, graduating in Computer Science at UFAL.
@@ -11,7 +11,7 @@
 
 ---
 
-### Working with
+## Working with
 
 ![](https://img.shields.io/badge/HTML-black?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=white&style=for-the-badge)
@@ -26,7 +26,7 @@
 
 ---
 
-### Learning
+## Learning
 
 ![](https://img.shields.io/badge/typescript-black?logo=typescript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/next-black?logo=next.js&logoColor=white&style=for-the-badge)
