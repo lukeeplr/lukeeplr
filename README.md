@@ -3,7 +3,7 @@
 <h3>I'm Lucas, 22yo Front-End Developer from Alagoas, Brazil. <br/>
 Currently, graduating in Computer Science at UFAL. <br/>
 In love with music, e-sports, design and developing beautiful interfaces. <br/> </h3> 
-<a href = "mailto:lukeeplr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+<a href = "mailto:lukeeplr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-chaves-881b6726b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://lucas-chaves.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://discord.com/users/369918974042963978" target="_blank"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
