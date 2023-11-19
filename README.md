@@ -26,10 +26,3 @@ In love with music, e-sports, design and development. <br/> </h3>
 ![](https://img.shields.io/badge/figma-black?logo=figma&logoColor=white&style=for-the-badge)
 <br/>
 
----
-
-<h2>Learning</h2>
-
-![](https://img.shields.io/badge/dart-black?logo=dart&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/flutter-black?logo=flutter&logoColor=white&style=for-the-badge)
-
