@@ -1,6 +1,6 @@
 <h1> Hello, you</h1>
 
-<h3>I'm Lucas, 22yo Front-End Developer from Alagoas, Brazil. <br/>
+<h3>I'm Lucas, 23yo Front-End Developer from Alagoas, Brazil. <br/>
 Currently, graduating in Computer Science at UFAL. <br/>
 In love with music, e-sports, design and development. <br/> </h3> 
 <a href = "mailto:lukeeplr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
